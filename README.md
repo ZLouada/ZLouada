@@ -1,82 +1,75 @@
-# Hi there, I'm a Full Stack Software Developer! 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&color=blue" alt="Followers" />
-</p>
+# Hi, I'm Zakaria 👋
 
-I am a passionate Full-Stack Software Developer dedicated to building highly dynamic, responsive, and performance-driven web applications and scalable software systems. I love bridging the gap between clean, optimized backend architectures and smooth, intuitive frontend interfaces.
+### Full-Stack Developer & Economics Student — Building SaaS at the Intersection of Tech & Markets
 
-- 🚀 Currently building and scaling SaaS applications and digital platforms.
-- 🎓 Deeply invested in advanced software engineering methodologies and international market simulations.
-- ⚙️ A dedicated Linux power user who loves fine-tuning development environments for peak performance.
-- 🔍 Always seeking opportunities to collaborate on challenging open-source projects or innovative full-time roles.
+I'm a 20-year-old developer from Casablanca, Morocco, studying International Economics while
+building real, revenue-driven software. I think in systems — whether it's a market model or a
+Node.js backend — and I ship products, not just code.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 
-### 🛠️ Tech Stack & Toolkit
-
-<table width="100%">
-  <tr>
-    <!-- Frontend Development -->
-    <td width="50%" valign="top">
-      <h4>💻 Frontend Development</h4>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <!-- Backend & Databases -->
-    <td width="50%" valign="top">
-      <h4>🖥️ Backend & Databases</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <!-- Tools & Infrastructure -->
-    <td width="50%" valign="top">
-      <h4>⚙️ Infrastructure & Auth</h4>
-      <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-    <!-- Environment & Workflow -->
-    <td width="50%" valign="top">
-      <h4>🐧 Environment & Editor</h4>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-      <img src="https://img.shields.io/badge/Neovim-5741D9?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
-      <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### 📈 GitHub Statistics
+## 🚀 What I'm Currently Building
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
+### 🎬 [Editing Hub](#)
+A directory and hiring platform connecting businesses with professional video editors.
+> Solving discovery & trust in the creator economy's most fragmented hiring market.
+
+### 📊 [MacroFlow](#)
+An interactive economic simulation platform for modeling macroeconomic scenarios.
+> Where my economics degree actually meets my codebase.
+
+*Both are active, self-driven products — not tutorials, not clones.*
 
 ---
 
-### 🤝 Connect with Me
+## 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Languages & Frameworks**
 
-<p align="center"><i>"The best way to predict the future is to invent it."</i></p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Environment & Workflow**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to talking about SaaS, economics-meets-tech, or collaborating on ambitious projects.
+
+- 📫 Reach me at: **your-email@example.com**
+- 💼 Open to: internships, freelance collabs, and interesting open-source projects
+- 🌍 Based in Casablanca, Morocco (GMT+1)
+
+<div align="center">
+<sub>Building in public, one commit at a time.</sub>
+</div>
