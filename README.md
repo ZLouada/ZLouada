@@ -66,7 +66,7 @@ An interactive economic simulation platform for modeling macroeconomic scenarios
 
 I'm always open to talking about SaaS, economics-meets-tech, or collaborating on ambitious projects.
 
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **louadazakaria@gmail.com**
 - 💼 Open to: internships, freelance collabs, and interesting open-source projects
 - 🌍 Based in Casablanca, Morocco (GMT+1)
 
