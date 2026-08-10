@@ -8,9 +8,7 @@ I'm a 20-year-old developer from Casablanca, Morocco, studying International Eco
 building real, revenue-driven software. I think in systems — whether it's a market model or a
 Node.js backend — and I ship products, not just code.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+
 
 </div>
 
