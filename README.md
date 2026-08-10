@@ -14,17 +14,6 @@ Node.js backend — and I ship products, not just code.
 
 ---
 
-## 🚀 What I'm Currently Building
-
-### 🎬 [Editing Hub](#)
-A directory and hiring platform connecting businesses with professional video editors.
-> Solving discovery & trust in the creator economy's most fragmented hiring market.
-
-### 📊 [MacroFlow](#)
-An interactive economic simulation platform for modeling macroeconomic scenarios.
-> Where my economics degree actually meets my codebase.
-
-*Both are active, self-driven products — not tutorials, not clones.*
 
 ---
 
