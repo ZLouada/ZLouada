@@ -1,62 +1,29 @@
-<div align="center">
+# Hi, I'm Zakaria Louada 👋
 
-# Hi, I'm Zakaria 👋
-
-### Full-Stack Developer & Economics Student — Building SaaS at the Intersection of Tech & Markets
-
-I'm a 20-year-old developer from Casablanca, Morocco, studying International Economics while
-building real, revenue-driven software. I think in systems — whether it's a market model or a
-Node.js backend — and I ship products, not just code.
-
-
-
-</div>
+I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** building robust web platforms from the UI down to the operating system. My workflow is terminal-first, Linux-driven, and focused on writing performant, secure, and resilient code.
 
 ---
 
+### 🛠 Tech Stack & Tooling
+
+- **Languages:** JavaScript (ES6+), C, SQL, HTML5/CSS3
+- **Frontend:** React, Next.js, Modern UI Frameworks
+- **Backend & DB:** Node.js, Express, REST APIs, PostgreSQL / MongoDB
+- **Security & Systems:** Linux (Arch / Fedora), Memory Management, AppSec / OWASP Top 10, Dependency Auditing
+- **Workflow & Environment:** Neovim / Vim, Bash, Git & GitHub, Docker
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛡 Core Focus & Security Philosophy
 
-**Languages & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Environment & Workflow**
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+- **Defensive Engineering:** Treating security as an architectural requirement—implementing strict input sanitization, secure auth flows, and proactive vulnerability patching.
+- **Low-Level Mechanics:** Exploring memory layout, system calls, and OS internals to better understand attack surfaces and binary execution.
+- **Production Performance:** Deploying and maintaining live web platforms with optimized routing, minimal bundle sizes, and hardened server configurations.
 
 ---
 
-## 📈 GitHub Stats
+### 📌 Current Projects & Goals
 
-<div align="center">
-
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to talking about SaaS, economics-meets-tech, or collaborating on ambitious projects.
-
-- 📫 Reach me at: **louadazakaria@gmail.com**
-- 💼 Open to: internships, freelance collabs, and interesting open-source projects
-- 🌍 Based in Casablanca, Morocco (GMT+1)
-
-<div align="center">
-<sub>Building in public, one commit at a time.</sub>
-</div>
+- 🔭 Building and deploying full-stack web platforms and interactive analytics tools.
+- 🔐 Deepening my AppSec toolkit (web exploitation mechanics, network security, and secure API design).
+- ⚙️ Continuously refining my Neovim-centric developer environment.
