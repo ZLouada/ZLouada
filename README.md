@@ -1,29 +1,9 @@
-# Hi, I'm Zakaria Louada 👋
-
-I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** building robust web platforms from the UI down to the operating system. My workflow is terminal-first, Linux-driven, and focused on writing performant, secure, and resilient code.
-
----
-
-### 🛠 Tech Stack & Tooling
-
-- **Languages:** JavaScript (ES6+), C, SQL, HTML5/CSS3
-- **Frontend:** React, Next.js, Modern UI Frameworks
-- **Backend & DB:** Node.js, Express, REST APIs, PostgreSQL / MongoDB
-- **Security & Systems:** Linux (Arch / Fedora), Memory Management, AppSec / OWASP Top 10, Dependency Auditing
-- **Workflow & Environment:** Neovim / Vim, Bash, Git & GitHub, Docker
-
----
-
-### 🛡 Core Focus & Security Philosophy
-
-- **Defensive Engineering:** Treating security as an architectural requirement—implementing strict input sanitization, secure auth flows, and proactive vulnerability patching.
-- **Low-Level Mechanics:** Exploring memory layout, system calls, and OS internals to better understand attack surfaces and binary execution.
-- **Production Performance:** Deploying and maintaining live web platforms with optimized routing, minimal bundle sizes, and hardened server configurations.
-
----
-
-### 📌 Current Projects & Goals
-
-- 🔭 Building and deploying full-stack web platforms and interactive analytics tools.
-- 🔐 Deepening my AppSec toolkit (web exploitation mechanics, network security, and secure API design).
-- ⚙️ Continuously refining my Neovim-centric developer environment.
+ziko@archlinux ~ $ fastfetchOS:       Arch Linux x86_64 (Hyprland + Serpantinum)
+User:     Zakaria Louada (ZLouada)
+Role:     Co-Founder, CTO & Full-Stack Software Developer
+Academic: International Economics @ FSJES Aïn Sebaâ (UH2C)
+Editor:   Neovim (LazyVim) / Cursor / Antigravity IDE
+Brain:    Obsidian (Knowledge Vault & Cybersecurity Notes)
+Focus:    B2B SaaS, Marketplaces, FinTech & Cybersecurity
+Off-Duty: High-Intensity Lifting (100kg Incline / 180kg DL Goals)
+~/tech-stackLanguages & CoreFrameworks, Full-Stack & MobileBackend, Databases & CloudEnvironment & Workflow~/featured-buildsProjectDomainStackOverviewPontLookB2B MarketplaceNext.js Tailwind Payload CMS SupabaseCorporate training matchmaking & B2B marketplace platform operating under Firstnestcare, LLC.EditLinkCreator EconomyNext.js React Node.jsHigh-contrast (#111111 / #FF5A00) professional marketplace connecting clients with skilled video editors.Bourse f'jibkFinTech / MASIReact Node.jsReal-time web application tracking Casablanca Stock Exchange (MASI) market data and equities.MacroFlowEnterprise SaaSReact Node.jsEnterprise project management & workforce HR analytics platform.econsimEdTech / EconReact Recharts Node.js MongoDBInteractive Market Equilibrium Simulator bridging economic theory with real-time visualization.~/telemetry
